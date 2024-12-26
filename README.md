@@ -62,7 +62,7 @@
 </head>
 <body>
     <header>
-        <h1>Monólogos de Alexa Milen Girón Tapia</h1>
+        <h1>Translúcido</h1>
     </header>
     <nav>
         <ul>
@@ -75,11 +75,11 @@
     <main>
         <section id="inicio">
             <h2>Bienvenida</h2>
-            <p>Bienvenidos a mi espacio creativo, donde comparto mis monólogos, pensamientos y reflexiones.</p>
+            <p>Bienvenidos, disfruta de la dulce ilusión.</p>
         </section>
         <section id="acerca">
             <h2>Acerca de mí</h2>
-            <p>Soy Alexa Milen Girón Tapia, apasionada por la palabra hablada y escrita, compartiendo lo que me inspira y provoca reflexionar.</p>
+            <p>Soy Milen G. .</p>
         </section>
         <section id="monologos">
             <h2>Monólogos</h2>
@@ -98,7 +98,7 @@
         </section>
     </main>
     <footer>
-        <p>© Alexa Milen Girón Tapia 2024. Todos los derechos reservados.</p>
+        <p>© Milen Girón Tapia 2024. Todos los derechos reservados.</p>
     </footer>
 </body>
 </html>
